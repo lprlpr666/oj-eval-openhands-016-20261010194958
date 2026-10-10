@@ -76,5 +76,6 @@ int main() {
     // Persist changes for next runs
     save_db(db);
     return 0;
+// End of solution
 }
 
