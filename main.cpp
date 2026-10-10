@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // Solution for ACMOJ Problem 2697 - File Storage BPT with persistence
+// Additional comment for final submission
 
 const string DB_FILE = "db.txt";
 
@@ -76,6 +77,6 @@ int main() {
     // Persist changes for next runs
     save_db(db);
     return 0;
-// End of solution
+// End of solution // final update
 }
 
