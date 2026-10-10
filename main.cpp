@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Solution for ACMOJ Problem 2697 - File Storage BPT with persistence
 
 const string DB_FILE = "db.txt";
 
